@@ -1,0 +1,5 @@
+﻿  Main.cpp
+g:\oop\flightcontrolsystem\flightcontrolsystem\main.cpp(60): warning C4018: '<': signed/unsigned mismatch
+g:\oop\flightcontrolsystem\flightcontrolsystem\main.cpp(72): warning C4102: 'std': unreferenced label
+Main.obj : error LNK2019: unresolved external symbol "public: class std::vector<class Aircraft,class std::allocator<class Aircraft> > __thiscall FlightSystem::ListAllAircraft(void)" (?ListAllAircraft@FlightSystem@@QAE?AV?$vector@VAircraft@@V?$allocator@VAircraft@@@std@@@std@@XZ) referenced in function _main
+G:\OOP\FlightControlSystem\Debug\FlightControlSystem.exe : fatal error LNK1120: 1 unresolved externals
